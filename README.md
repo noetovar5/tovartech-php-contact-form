@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=noetovar5.tovartech-php-contact-form"/>
 # tovartech-php-contact-form
 this is a zip containing the contact form and php file for tovartech.org
 I created the complete **TovarTech.org contact-form package** for you, using the same working Gmail SMTP approach as TovarBooks. It sends visitor messages directly to **[noetovar5@gmail.com](mailto:noetovar5@gmail.com)**, and I included the `php-mbstring` fix in the installer from the start.
